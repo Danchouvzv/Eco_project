@@ -1,0 +1,17 @@
+{
+  "name": "hackaton",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Doni",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.21.1",
+    "firebase": "^11.0.2",
+    "mongoose": "^8.8.2"
+  }
+}
